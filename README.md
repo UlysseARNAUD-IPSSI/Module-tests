@@ -14,5 +14,5 @@
 
 ## Contribution
 
-Les répertoires peuvent être clonés, forké, téléchargé sans autorisation au préalable.
+Les répertoires peuvent être clonés, forkés, téléchargés sans autorisation au préalable.
 Néanmois, des pulls request peuvent être créés afin d'améliorer un code source déjà existant.
