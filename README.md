@@ -12,7 +12,7 @@
 
 ### Projets
 
-- CRM : Création d'un répertoire de contact et de sa gestion (CRUD) afin de créer des tests unitaires (voire des tests d'intégration). [Lien du répertoire (Github)](https://github.com/UlysseARNAUD-IPSSI/tests-projet-crm)
+- __CRM__ : Création d'un répertoire de contact et de sa gestion (CRUD) afin de créer des tests unitaires (voire des tests d'intégration). [Lien du répertoire (Github)](https://github.com/UlysseARNAUD-IPSSI/tests-projet-crm)
 
 
 ## Contribution
